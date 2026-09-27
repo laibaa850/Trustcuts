@@ -1,2 +1,2 @@
 # Trustcuts
-Building a chatbot for the website trustcuts.com 
+Building a chatbot,
